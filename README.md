@@ -2,4 +2,4 @@
 link:https://usaid7015.github.io/intelligent-calculators/
 
 
-Made with PHP Intelligence-calculator 
+Made with JS Intelligence-calculator 
